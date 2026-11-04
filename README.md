@@ -240,4 +240,4 @@ This repository serves as the official landing page for Torrent Video Converter.
 **Get the most recent version of Torrent Video Converter today!**
 
 ---
-**Last updated:** 2026-11-03 21:38:33 UTC
+**Last updated:** 2026-11-04 01:58:31 UTC
